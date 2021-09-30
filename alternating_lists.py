@@ -7,7 +7,4 @@ def alternating_lists(list1, list2):
                 list3.append(item)
                 list3.append(object)
     print(list3)
-
-list1 = ['a', 'b', 'c']
-list2 = [1, 2, 3]
 alternating_lists(list1, list2)
